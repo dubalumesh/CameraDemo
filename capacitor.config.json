@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "io.ionic.CameraDemo",
   "appName": "CameraDemo",
   "bundledWebRuntime": false,
   "npmClient": "npm",
